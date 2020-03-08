@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "595653664988",
+    "firebase_url": "https://userdata-4a398.firebaseio.com",
+    "project_id": "userdata-4a398",
+    "storage_bucket": "userdata-4a398.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595653664988:android:ddb4684ff7df8c76",
+        "android_client_info": {
+          "package_name": "usman.attendancemanagementsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595653664988-qp7lopbkk93tvtjr96aeg7do6je3u8r8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5RYv0ha_vXn19eCYIgygIFffUiet1qHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595653664988-qp7lopbkk93tvtjr96aeg7do6je3u8r8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
